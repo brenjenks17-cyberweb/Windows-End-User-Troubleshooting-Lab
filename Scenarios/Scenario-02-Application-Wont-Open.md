@@ -1,17 +1,26 @@
+# Scenario 1: Application Would Not Open
+
 ## Problem
 
-User reported that Notepad would not open.
+A user reported that Notepad was not opening correctly.
 
-## Troubleshooting
+## Troubleshooting Steps
 
-Checked Task Manager and found a Notepad process still running.
-
-Ended the process and attempted to launch the application again.
+1. Opened Task Manager to determine if Notepad was already running.
+2. Searched for the Notepad process.
+3. Found Notepad.exe running in the background.
+4. Ended the existing process and relaunched the application.
 
 ## Resolution
 
-Notepad opened successfully after ending the stuck process.
+After ending the existing Notepad process, the application opened successfully.
 
 ## What I Learned
 
-A frozen background process can prevent an application from launching correctly.
+Applications may fail to launch if an existing process becomes stuck in memory.
+
+## Evidence
+
+![Notepad Process](Screenshots/notepad-process.png)
+
+![Notepad Opened Successfully](Screenshots/notepad-opened.png)
