@@ -21,6 +21,6 @@ Applications may fail to launch if an existing process becomes stuck in memory.
 
 ## Evidence
 
-![Notepad Process](Screenshots/Notepad-process.png)
+![Notepad Process](Windows-End-User-Troubleshooting-Lab/Screenshots/Notepad-process.png)
 
 ![Notepad Opened Successfully](Screenshots/notepad-opened.png)
