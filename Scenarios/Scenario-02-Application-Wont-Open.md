@@ -1,4 +1,4 @@
-# Scenario 1: Application Would Not Open
+# Scenario 2: Application Would Not Open
 
 ## Problem
 
