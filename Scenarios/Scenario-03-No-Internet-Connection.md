@@ -22,8 +22,8 @@ Tools such as `ipconfig` and `ping` are useful for quickly diagnosing basic netw
 
 ## Evidence
 
-![IP Configuration](Screenshots/Ipconfig-output.png)
+![IP Configuration](../Screenshots/Ipconfig-output.png)
 
-![Ping Test](Screenshots/Ping-test.png)
+![Ping Test](../Screenshots/Ping-test.png)
 
-![DNS Test](Screenshots/Dns-test.png)
+![DNS Test](../Screenshots/Dns-test.png)
