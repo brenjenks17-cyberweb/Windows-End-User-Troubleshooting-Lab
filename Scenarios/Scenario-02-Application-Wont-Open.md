@@ -23,4 +23,4 @@ Applications may fail to launch if an existing process becomes stuck in memory.
 
 ![Notepad Process](../Screenshots/Notepad-process.png)
 
-![Notepad Opened Successfully](../Screenshots/notepad-opened.png)
+![Notepad Opened Successfully](../Screenshots/Notepad-opened.png)
