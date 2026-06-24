@@ -23,8 +23,8 @@ Windows Update and the built-in troubleshooter are useful tools for identifying 
 
 ## Evidence
 
-![Windows Update Check](../Screenshots/windows-update-check.png)
+![Windows Update Check](../Screenshots/Windows-update-check.png)
 
-![Windows Update Troubleshooter](../Screenshots/windows-update-troubleshooter.png)
+![Windows Update Troubleshooter](../Screenshots/Windows-update-troubleshooter.png)
 
-![Windows Update](../Screenshots/windows-update.png)
+![Windows Update](../Screenshots/Windows-update.png)
