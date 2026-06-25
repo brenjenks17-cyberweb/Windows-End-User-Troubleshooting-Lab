@@ -23,6 +23,6 @@ Login issues are often caused by simple problems such as incorrect credentials, 
 
 ## Evidence
 
-![Account Settings](../Screenshots/account-settings.png)
+![Account Settings](../Screenshots/Account-settings.png)
 
-![Sign-In Options](../Screenshots/sign-in-options.png)
+![Sign-In Options](../Screenshots/Sign-in-options.png)
