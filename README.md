@@ -41,11 +41,11 @@ This lab contains common Windows troubleshooting scenarios that a Help Desk or I
 ```text
 Scenarios/
 ├── Scenario-01-User-Cannot-Sign-In.md
-├── Scenario-02-Computer-Running-Slow.md Application-Wont-Open.md 
-├── Scenario-03-Network-Connectivity.md
-├── Scenario-04-Full-Disk-Space.md
-├── Scenario-05-Windows-Update-Troubleshooting.md
-└── Scenario-06-User-Cannot-Sign-In.md
+├── Scenario-02-Application-Wont-Open.md 
+├── Scenario-03-Computer-Running-Slow.md 
+├── Scenario-04-Windows-Update-Troubleshooting.md
+├── Scenario-05-Full-Disk-Space.md 
+└── Scenario-06-User-Cannot-Sign-In.md Network-Connectivity. 
 
 Screenshots/
 ├── Various screenshots used throughout the lab
