@@ -1,4 +1,4 @@
-# Scenario 7: Windows Update Troubleshooting
+# Scenario 4: Windows Update Troubleshooting
 
 ## Problem
 
